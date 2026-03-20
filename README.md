@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## Привет, я Владислав 👋
 
 Активно пишу дипломную работу в качестве Frontend разработчика и лида проекта, параллельно изучая **TypeScript** с **React**.
@@ -21,7 +19,7 @@
 
 ---
 
-Статус: ищу работу Frontend-разработчика / стажировку Frontend
+**Открыт к стажировкам и Junior-позициям во Frontend**
 
 [HH-для работодателей](https://voronezh.hh.ru/resume/ebab372fff104438400039ed1f6a5166674c63)
 
@@ -70,24 +68,12 @@
 | **subset-font** | Shell | Оптимизация шрифтов через сабсеттинг |
 
 ---
-
-## 📊 GitHub Stats
-
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladislavTipa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladislavTipa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VladislavTipa&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavTipa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF)
-
-</div>
-
----
-
-<div align="center">
-
-**Открыт к стажировкам и Junior-позициям во Frontend**
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavTipa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF) -->
 
 </div>
